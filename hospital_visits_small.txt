@@ -1,0 +1,15 @@
+V001 P102 ER Flu Oseltamivir 120
+V002 P215 Internal Hypertension Amlodipine 80
+V003 P330 Pediatrics Asthma Salbutamol 60
+V004 P178 ER Fracture Ibuprofen 200
+V005 P415 ER Flu Paracetamol 50
+V006 P509 Internal Hypertension Losartan 90
+V007 P288 Pediatrics Asthma Paracetamol 65
+V008 P672 Internal Hypertension Amlodipine 95
+V009 P731 ER Flu Oseltamivir 110
+V010 P128 Internal Flu Paracetamol 70
+V011 P330 Pediatrics Asthma Salbutamol 60
+V012 P900 ER Fracture Paracetamol 140
+V013 P102 ER Flu Oseltamivir 120
+V014 P215 Internal Hypertension Losartan 100
+V015 P288 Pediatrics Asthma Paracetamol 55
