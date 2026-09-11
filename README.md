@@ -10,8 +10,8 @@
 * `clinic_log_test.txt`
 * `clinic_log.txt`
 
-## HW4 – Lists and Dictionaries
+## HW4: Lists, Dictionaries, and Tuples
 
-* TBD
-* TBD
-* TBD
+* `hospital_visits_small.txt`
+* `hospital_visits_test.txt`
+* `hospital_visits.txt`
