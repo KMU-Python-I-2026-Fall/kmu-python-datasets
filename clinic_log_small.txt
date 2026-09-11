@@ -1,0 +1,10 @@
+P001 ER Fever 38.2 142 67
+P002 Internal Normal 36.7 118 45
+P003 ER Elevated 37.5 130 52
+P004 Surgery Normal 36.5 124 60
+P005 Pediatrics Normal 36.6 105 12
+P006 Internal Elevated 37.2 135 54
+P007 ER Fever 38.6 150 71
+P008 Pediatrics Normal 36.9 102 8
+P009 Surgery Elevated 37.4 128 63
+P010 Internal Fever 38.3 145 58
