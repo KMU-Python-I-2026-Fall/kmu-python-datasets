@@ -1,0 +1,12 @@
+V001 Internal Fever High 56 Admit
+V002 Internal Fever Low 29 Discharge
+V003 Pediatrics Cough Medium 34 Observe
+V004 ER Pain Medium 52 Discharge
+V005 ER Pain Medium 46 Observe
+V006 ER Fever High 65 Observe
+V007 Pediatrics Cough Medium 36 Observe
+V008 Pediatrics Cough High 46 Admit
+V009 ER Fever Medium 45 Observe
+V010 Pediatrics Rash Medium 34 Observe
+V011 ER Pain Medium 50 Admit
+V012 Internal Fever High 54 Observe
