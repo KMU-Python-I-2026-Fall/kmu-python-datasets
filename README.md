@@ -2,7 +2,7 @@
 
 ## Lecture 7: Files
 
-* TBD
+* `lec7_patient_log.txt`
 
 ## HW3: Strings, Files, and Lists
 
