@@ -1,0 +1,385 @@
+--------------------------------
+Patient: John
+Gender: M
+Age: 65
+Temp: 38.2
+HR: 88
+BP: 120/80
+Status: Fever
+--------------------------------
+Patient: Mary
+Gender: F
+Age: 52
+Temp: 36.8
+HR: 72
+BP: 110/70
+Status: Normal
+--------------------------------
+Patient: David
+Gender: M
+Age: 70
+Temp: 39.1
+HR: 95
+BP: 130/85
+Status: Fever
+--------------------------------
+Patient: Lisa
+Gender: F
+Age: 45
+Temp: 37.0
+HR: 78
+BP: 115/75
+Status: Normal
+--------------------------------
+Patient: Kevin
+Gender: M
+Age: 60
+Temp: 38.5
+HR: 90
+BP: 125/82
+Status: Fever
+--------------------------------
+Patient: Emma
+Gender: F
+Age: 33
+Temp: 36.5
+HR: 70
+BP: 108/68
+Status: Normal
+--------------------------------
+Patient: Alex
+Gender: M
+Age: 55
+Temp: 37.8
+HR: 85
+BP: 118/76
+Status: Mild Fever
+--------------------------------
+Patient: Sophia
+Gender: F
+Age: 28
+Temp: 36.9
+HR: 75
+BP: 112/72
+Status: Normal
+--------------------------------
+Patient: Ethan
+Gender: M
+Age: 12
+Temp: 37.5
+HR: 92
+BP: 105/65
+Status: Mild Fever
+--------------------------------
+Patient: Olivia
+Gender: F
+Age: 8
+Temp: 38.0
+HR: 100
+BP: 100/60
+Status: Fever
+--------------------------------
+Patient: Lucas
+Gender: M
+Age: 40
+Temp: 36.7
+HR: 72
+BP: 118/78
+Status: Normal
+--------------------------------
+Patient: Mia
+Gender: F
+Age: 22
+Temp: 37.2
+HR: 80
+BP: 110/70
+Status: Normal
+--------------------------------
+Patient: Noah
+Gender: M
+Age: 75
+Temp: 38.8
+HR: 96
+BP: 135/88
+Status: Fever
+--------------------------------
+Patient: Ava
+Gender: F
+Age: 68
+Temp: 37.9
+HR: 84
+BP: 128/82
+Status: Mild Fever
+--------------------------------
+Patient: James
+Gender: M
+Age: 50
+Temp: 36.6
+HR: 70
+BP: 115/75
+Status: Normal
+--------------------------------
+Patient: Charlotte
+Gender: F
+Age: 30
+Temp: 37.1
+HR: 76
+BP: 112/70
+Status: Normal
+--------------------------------
+Patient: Benjamin
+Gender: M
+Age: 10
+Temp: 38.3
+HR: 105
+BP: 102/62
+Status: Fever
+--------------------------------
+Patient: Amelia
+Gender: F
+Age: 6
+Temp: 37.6
+HR: 98
+BP: 98/60
+Status: Mild Fever
+--------------------------------
+Patient: Daniel
+Gender: M
+Age: 42
+Temp: 36.9
+HR: 74
+BP: 120/80
+Status: Normal
+--------------------------------
+Patient: Harper
+Gender: F
+Age: 35
+Temp: 37.3
+HR: 78
+BP: 115/72
+Status: Normal
+--------------------------------
+Patient: Matthew
+Gender: M
+Age: 80
+Temp: 38.7
+HR: 92
+BP: 140/90
+Status: Fever
+--------------------------------
+Patient: Evelyn
+Gender: F
+Age: 72
+Temp: 37.8
+HR: 86
+BP: 130/85
+Status: Mild Fever
+--------------------------------
+Patient: Henry
+Gender: M
+Age: 55
+Temp: 36.8
+HR: 72
+BP: 118/76
+Status: Normal
+--------------------------------
+Patient: Abigail
+Gender: F
+Age: 48
+Temp: 37.2
+HR: 79
+BP: 116/74
+Status: Normal
+--------------------------------
+Patient: Sebastian
+Gender: M
+Age: 25
+Temp: 37.4
+HR: 82
+BP: 110/70
+Status: Mild Fever
+--------------------------------
+Patient: Emily
+Gender: F
+Age: 20
+Temp: 36.7
+HR: 73
+BP: 108/68
+Status: Normal
+--------------------------------
+Patient: Jack
+Gender: M
+Age: 5
+Temp: 38.4
+HR: 110
+BP: 95/60
+Status: Fever
+--------------------------------
+Patient: Ella
+Gender: F
+Age: 7
+Temp: 37.7
+HR: 102
+BP: 98/62
+Status: Mild Fever
+--------------------------------
+Patient: Owen
+Gender: M
+Age: 60
+Temp: 36.9
+HR: 74
+BP: 120/80
+Status: Normal
+--------------------------------
+Patient: Chloe
+Gender: F
+Age: 58
+Temp: 37.5
+HR: 80
+BP: 118/78
+Status: Mild Fever
+--------------------------------
+Patient: William
+Gender: M
+Age: 67
+Temp: 38.6
+HR: 90
+BP: 135/85
+Status: Fever
+--------------------------------
+Patient: Grace
+Gender: F
+Age: 62
+Temp: 37.6
+HR: 85
+BP: 128/82
+Status: Mild Fever
+--------------------------------
+Patient: Logan
+Gender: M
+Age: 15
+Temp: 37.3
+HR: 88
+BP: 110/70
+Status: Normal
+--------------------------------
+Patient: Lily
+Gender: F
+Age: 14
+Temp: 37.2
+HR: 85
+BP: 108/68
+Status: Normal
+--------------------------------
+Patient: Mason
+Gender: M
+Age: 45
+Temp: 36.8
+HR: 72
+BP: 118/76
+Status: Normal
+--------------------------------
+Patient: Zoe
+Gender: F
+Age: 38
+Temp: 37.1
+HR: 76
+BP: 115/72
+Status: Normal
+--------------------------------
+Patient: Jacob
+Gender: M
+Age: 73
+Temp: 38.9
+HR: 94
+BP: 138/88
+Status: Fever
+--------------------------------
+Patient: Hannah
+Gender: F
+Age: 69
+Temp: 37.7
+HR: 82
+BP: 130/84
+Status: Mild Fever
+--------------------------------
+Patient: Michael
+Gender: M
+Age: 58
+Temp: 36.7
+HR: 72
+BP: 120/78
+Status: Normal
+--------------------------------
+Patient: Aria
+Gender: F
+Age: 26
+Temp: 36.9
+HR: 75
+BP: 110/70
+Status: Normal
+--------------------------------
+Patient: Leo
+Gender: M
+Age: 4
+Temp: 38.6
+HR: 112
+BP: 92/58
+Status: Fever
+--------------------------------
+Patient: Nora
+Gender: F
+Age: 3
+Temp: 37.9
+HR: 108
+BP: 90/55
+Status: Mild Fever
+--------------------------------
+Patient: Samuel
+Gender: M
+Age: 77
+Temp: 38.4
+HR: 89
+BP: 142/90
+Status: Fever
+--------------------------------
+Patient: Lucy
+Gender: F
+Age: 74
+Temp: 37.8
+HR: 83
+BP: 135/85
+Status: Mild Fever
+--------------------------------
+Patient: Ryan
+Gender: M
+Age: 32
+Temp: 36.6
+HR: 70
+BP: 115/75
+Status: Normal
+--------------------------------
+Patient: Stella
+Gender: F
+Age: 29
+Temp: 36.8
+HR: 72
+BP: 110/70
+Status: Normal
+--------------------------------
+Patient: Victor
+Gender: M
+Age: 66
+Temp: 38.1
+HR: 88
+BP: 132/84
+Status: Fever
+--------------------------------
+Patient: Diana
+Gender: F
+Age: 61
+Temp: 37.4
+HR: 80
+BP: 125/80
+Status: Mild Fever
+--------------------------------
